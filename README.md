@@ -14,3 +14,4 @@ Este projeto é do tipo galeria, com o tema de animais da fauna brasileira. Foi 
 - [Pedro Victor](https://www.linkedin.com/in/pedro-rodrigues-41169031b/)
 
 # gallery-2024
+# gallery-2024
